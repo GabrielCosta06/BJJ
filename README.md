@@ -135,3 +135,5 @@ Contributions are welcome! If you have suggestions for new techniques, improveme
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+
+theme: jekyll-theme-minimal
